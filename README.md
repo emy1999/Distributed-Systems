@@ -17,6 +17,7 @@ Project on distributed systems using sockets and threads. Consists of 2 parts
 8. Learned to cooporate with many people.
 
 <h2> Project </h2>
+
 * [Information]()
 * [Skeleton]()
 * [Main]()
