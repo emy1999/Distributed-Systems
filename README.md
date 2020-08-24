@@ -22,7 +22,7 @@ This project was completed in the course of the 6th semester.
 
 * [Information]()
 * [Skeleton]()
-* [Main](3170005_3170033_3160046_3170114_3170172/1st and 2nd assignment/spotify4/src/com/example/spotify)
+* [Main](https://github.com/emy1999/Distributed-Systems/tree/master/3170005_3170033_3160046_3170114_3170172/1st%20and%202nd%20assignment/spotify4/src/com/example/spotify)
 * [App]()
 
 <h2> Contributors</h2>
