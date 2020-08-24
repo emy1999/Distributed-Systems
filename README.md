@@ -5,6 +5,8 @@ Project on distributed systems using sockets and threads. Consists of 2 parts
 * Main program
 * App
 
+This project was completed in the course of the 6th semester.
+
 <h2>Learning Results</h2>
 
 1. Learned the use of sockets.
