@@ -24,6 +24,7 @@ This project was completed in the course of the 6th semester.
 * [Skeleton](https://github.com/emy1999/Distributed-Systems/blob/master/3170005_3170033_3160046_3170114_3170172/1st%20and%202nd%20assignment/skeleton.png)
 * [Main](https://github.com/emy1999/Distributed-Systems/tree/master/3170005_3170033_3160046_3170114_3170172/1st%20and%202nd%20assignment/spotify4/src/com/example/spotify)
 * [App](https://github.com/emy1999/Distributed-Systems/tree/master/3170005_3170033_3160046_3170114_3170172/1st%20and%202nd%20assignment/android%20app/spotify/app/src/main/java/com/example/spotify)
+* [Library](https://github.com/emy1999/Distributed-Systems/tree/master/3170005_3170033_3160046_3170114_3170172/1st%20and%202nd%20assignment/mp3agiclib)
 
 <h2> Contributors</h2>
 
