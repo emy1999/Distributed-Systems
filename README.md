@@ -1,4 +1,4 @@
-# Distributed Systems
+# Distributed Systems/Spotify
 <h2>General Information</h2>
 
 Project on distributed systems using sockets and threads. Consists of 2 parts
