@@ -26,6 +26,10 @@ This project was completed in the course of the 6th semester.
 * [App](https://github.com/emy1999/Distributed-Systems/tree/master/3170005_3170033_3160046_3170114_3170172/1st%20and%202nd%20assignment/android%20app/spotify/app/src/main/java/com/example/spotify)
 * [Library](https://github.com/emy1999/Distributed-Systems/tree/master/3170005_3170033_3160046_3170114_3170172/1st%20and%202nd%20assignment/mp3agiclib)
 
+
+<h2> The APP </h2>
+
+
 <h2> Contributors</h2>
 
 1. Eleni Chaviatzi
